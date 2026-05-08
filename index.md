@@ -1,3 +1,2 @@
 # What a scam!
-
-what is going on here
+What is going on here
